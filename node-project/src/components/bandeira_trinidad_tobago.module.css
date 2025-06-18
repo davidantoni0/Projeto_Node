@@ -1,0 +1,21 @@
+.TrinidTobago{
+
+}
+#trinid_tobago1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: red;
+    width: 400px;
+    height: 200px;
+    overflow: hidden;
+
+}
+#trinid_tobago2{
+    align-self: center;
+    background-color: black;
+    border: 10px solid white;
+    width: 50px;
+    height: 450px;
+    transform: rotate(125deg); 
+}

@@ -1,0 +1,1 @@
+import styles from "./bandeira_kuwait.module.css"

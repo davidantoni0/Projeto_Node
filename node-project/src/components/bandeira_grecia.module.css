@@ -1,0 +1,50 @@
+.Grecia{}
+#grecia1 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    height: 200px;
+    width: 400px;
+    background-color: white;
+}
+
+#grecia1a {
+    display: flex;
+    position: absolute;
+    width: 110px;
+    height: 110px;
+    background-color: blue;
+}
+#grecia1b{
+    margin-top: 2px;
+    align-self: center;
+    height: 22.2px;
+    width: 44px;
+    background-color: white;
+}
+#grecia1c{
+    align-self: center;
+    height: 112px;
+    width: 22.2px;
+    background-color: white;
+}
+#grecia1d{
+    align-self: center;
+    margin-top: 2px;
+    height: 22.2px;
+    width: 44px;
+    background-color: white;
+}
+
+#grecia2, #grecia3{
+    height: 22.2px;
+    width: 400px;
+}
+
+#grecia2{
+    background-color: blue;
+}
+
+#grecia3{
+    background-color: white;
+}

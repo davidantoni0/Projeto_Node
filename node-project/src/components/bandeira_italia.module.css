@@ -1,0 +1,19 @@
+.Italia{
+    display: flex;
+
+}
+#italia1{
+    background-color: green;
+    height: 200px;
+    width: 133px;
+}
+#italia2{
+    background-color: white;
+    height: 200px;
+    width: 133px;
+}
+#italia3{
+    background-color: red;
+    height: 200px;
+    width: 133px;
+}

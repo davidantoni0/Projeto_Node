@@ -1,0 +1,40 @@
+.Macedonia{
+
+}
+#macedonia1{
+    height: 200px;
+    width: 400px;
+    background-color: red;
+}
+#macedonia2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+    width: 400px;
+    background-image: conic-gradient(
+        yellow 0deg 20deg, 
+        red 0deg 50deg,
+        yellow 0deg 65deg, 
+        red 0deg 80deg,
+        yellow 0deg 100deg, 
+        red 0deg 115deg,
+        yellow 0deg 130deg, 
+        red 0deg 160deg,
+        yellow 0deg 200deg, 
+        red 0deg 230deg,
+        yellow 0deg 245deg, 
+        red 0deg 260deg,
+        yellow 0deg 280deg, 
+        red 0deg 295deg,
+        yellow 0deg 310deg, 
+        red 0deg 340deg,
+        yellow 0deg 360deg);
+}
+#macedonia3{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: yellow;
+    border: 10px solid red;
+}

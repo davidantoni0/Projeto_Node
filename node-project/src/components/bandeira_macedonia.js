@@ -1,0 +1,1 @@
+import styles from "./bandeira_macedonia.module.css"
