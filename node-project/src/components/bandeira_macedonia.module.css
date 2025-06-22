@@ -1,12 +1,12 @@
 .Macedonia{
-
+    border: 2px solid grey;
 }
-#macedonia1{
+.macedonia1{
     height: 200px;
     width: 400px;
     background-color: red;
 }
-#macedonia2{
+.macedonia2{
     display: flex;
     align-items: center;
     justify-content: center;
@@ -31,7 +31,7 @@
         red 0deg 340deg,
         yellow 0deg 360deg);
 }
-#macedonia3{
+.macedonia3{
     height: 50px;
     width: 50px;
     border-radius: 50%;

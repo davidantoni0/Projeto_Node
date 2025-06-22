@@ -6,8 +6,8 @@ export default function BandeiraBrasil(){
         <div className= {styles.Brasil}>
         <div className={styles.brasil1}>
             <div className={styles.brasil2}>
-                <div id="brasil3">
-                    <div id="brasil4"></div>
+                <div className={styles.brasil3}>
+                    <div className={styles.brasil4}></div>
                 </div>
             </div>
         </div>

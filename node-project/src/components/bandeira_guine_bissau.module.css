@@ -1,24 +1,24 @@
 .GuineBissau{
-
+    border: 2px solid grey;
 }
-#guine_bissau1{
+.guine_bissau1{
     height: 200px;
     width: 400px;
     background-color: yellow;
 }
-#guine_bissau2{
+.guine_bissau2{
     height: 100px;
     width: 400px;
     background-color: green;
 }
-#guine_bissau3{
+.guine_bissau3{
     align-content: center;
     justify-items: center;
     height: 200px;
     width: 100px;
     background-color: red;
 }
-#guine_bissau4{  
+.guine_bissau4{  
     width: 70px;
     height: 70px;
     background-color: black;

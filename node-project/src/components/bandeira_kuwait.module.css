@@ -1,28 +1,30 @@
-.Kwuait{}
-#kuwait1{
+.Kwuait{
+    border: 2px solid grey;
+}
+.kuwait1{
     display: flex;
     flex-direction: column;
     height: 200px;
     width: 400px;
     background-color: white;
 }
-#kuwait2{
+.kuwait2{
     height: 67px;
     width: 400px;
     background-color: green;
 }
-#kuwait2a{
+.kuwait2a{
     width: 110px;
     height: 200px;
     background-color: black;
     clip-path: polygon(0 0, 150% 50%, 0 100%);
 }
-#kuwait3{
+.kuwait3{
     height: 67px;
     width: 100px;
     background-color: black;
 }
-#kuwait4{
+.kuwait4{
     height: 66px;
     width: 400px;
     background-color: red;

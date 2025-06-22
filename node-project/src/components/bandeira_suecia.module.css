@@ -1,25 +1,25 @@
 .Suecia{
-
+    border: 2px solid grey;
 }
-#suecia1{
+.suecia1{
     display: flex;
     background-color: blue;
     height: 200px;
     width: 400px;
 }
-#suecia2{
+.suecia2{
     align-self: center;
     background-color: yellow;
     width: 100px;
     height: 50px;
 }
-#suecia3{
+.suecia3{
     
     background-color: yellow;
     height: 200px;
     width: 50px;
 }
-#suecia4{
+.suecia4{
     align-self: center;
     background-color: yellow;
     width: 250px;

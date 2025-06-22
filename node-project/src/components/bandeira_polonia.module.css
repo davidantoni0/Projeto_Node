@@ -1,17 +1,16 @@
-.bandeira {
-    margin-top: 200px;
-    width: 400px;
-    height: 300px;
-  }
-
-  .faixaBranca {
-    width: 100%;
+.Polonia{
+  border: 2px solid grey;
+  width: 400px;
+  height: 200px;
+}
+.polonia1{
     height: 50%;
-    background-color: #fff;
-  }
-
-  .faixaVermelha {
     width: 100%;
+    background-color: white;
+
+}
+.polonia2{
     height: 50%;
-    background-color: #ff0000;
-  }
+    width: 100%;
+    background-color: red;
+}

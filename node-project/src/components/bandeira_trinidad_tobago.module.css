@@ -1,7 +1,7 @@
 .TrinidTobago{
-
+    border: 2px solid grey;
 }
-#trinid_tobago1{
+.trinid_tobago1{
     display: flex;
     align-items: center;
     justify-content: center;
@@ -11,7 +11,7 @@
     overflow: hidden;
 
 }
-#trinid_tobago2{
+.trinid_tobago2{
     align-self: center;
     background-color: black;
     border: 10px solid white;
